@@ -1,1 +1,1 @@
-# terraform-gcp-artifact
+# artifact-gcp
